@@ -1,0 +1,143 @@
+
+.card {
+    padding: 0;
+    float: left;
+    max-width: 513px;
+    color: #337AB7;
+    border: 1px solid #337AB7;
+    border-radius: 5px;
+    margin: 30px 20px 0 0;
+}
+
+.card_separator {
+    margin: 0 !important;
+}
+
+.card_separator hr {
+    margin: 4px !important;
+}
+
+.card_separator hr {
+    /* Убираем границу для браузера Firefox */
+    border: none;
+    color: #EEF2FB !important;
+    /* Цвет линии для остальных браузеров */
+    color: #EEF2FB;
+    /* Цвет линии для браузера Firefox и Opera */
+    background-color: #EEF2FB;
+    /* Толщина линии */
+    height: 1px;
+}
+
+.card_anchor {
+    text-decoration: none;
+}
+
+.card_header {
+    display: block;
+    border-radius: 5px 5px 0 0;
+    padding: 10px;
+    color: #ffffff;
+    background-color: #337AB7;
+    font-weight: 700;
+}
+
+.card_number {
+    float: left;
+    font-size: 150%;
+    margin: -20px 15px 0 10px;
+    padding: 10px 17px 7px;
+    display: block;
+    border-radius: 35px;
+    color: #FFF500;
+    background-color: #75C5F0;
+    font-weight: 900;
+}
+
+.card_name {
+    margin-left: 70px;
+    font-weight: 700;
+    font-size: 120%;
+}
+
+.card_characters {
+    margin: 10px 0 0 0;
+    clear: left;
+    width: 230px;
+    float: left;
+    margin-left: 5px;
+}
+
+.card_star img {
+    float: left !important;
+    width: 17px;
+    margin: 0 0 10px 0;
+}
+
+.card_comfort img {
+    float: left;
+    width: 65px;
+    margin: 3px 19px 0 0;
+}
+
+.card_comfort span {
+    color: #E77817;
+}
+
+.card_wc img {
+    float: left;
+    width: 40px;
+    margin: 2px 40px 3px 3px;
+}
+
+.card_time img {
+    float: left;
+    width: 28px;
+    margin: 3px 50px 10px 3px;
+}
+
+.card_main_image {
+    float: left;
+}
+
+.card_2_col {
+    float: left;
+}
+
+.card_main_image img {
+    width: 266px;
+    margin: 2px 2px 0px 7px;
+    border-radius: 5px;
+}
+
+.card_button {
+    margin: 205px 50px -20px 60px;
+    padding: 10px 55px 10px 25px;
+    display: block;
+    border-radius: 10px;
+    color: #ffffff !important;
+    background-color: #337AB7;
+    font-weight: 700;
+}
+
+.card_button a,
+a:hover {
+    text-decoration: none;
+    color: #ffffff !important;
+    background-color: #337AB7;
+    font-weight: 700;
+}
+
+.card_button img {
+    float: right;
+    display: inline;
+    margin: -4px 15px 0;
+    padding: 0px;
+    position: absolute;
+    width: 27px;
+}
+
+.after_card {
+    float: left;
+    margin-top: 30px;
+}
