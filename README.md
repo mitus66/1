@@ -1,1 +1,1 @@
-SCC3-design for yacht-catalog for site https://ecotout.in.ua
+SCC3-design for yacht-catalog for site https://ecotour.in.ua
